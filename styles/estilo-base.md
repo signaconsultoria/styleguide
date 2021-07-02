@@ -26,3 +26,20 @@ trim_trailing_whitespace = false
 Crie esse arquivo na raíz do seu projeto e baixe o plugin de acordo com o seu editor/IDE, no link abaixo:
 
 [http://editorconfig.org/#download](http://editorconfig.org/#download)
+
+# Prettier
+
+O Prettier ajuda desenvolvedores a manter um estilo de formatação de codigo. Ele consiste num formato de arquivo para definição de formatação de código, o `.prettierrc` ou `.prettierrc.js`.
+
+Nosso `.prettierrc` padrão é apresentado abaixo:
+
+```
+{
+	"singleQuote": true,
+	"tabWidth": 2,
+	"trailingComma": "es5",
+	"useTabs": true,
+	"semi": false
+}
+
+```
