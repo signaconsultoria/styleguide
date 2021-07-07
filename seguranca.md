@@ -1,4 +1,4 @@
-# Segunrança (em desenvolvimento...)
+# Segurança (em desenvolvimento...)
 
 O Sonar da Signa já realiza a análise em cima das melhores práticas de segurança.
 
